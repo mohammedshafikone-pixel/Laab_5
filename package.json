@@ -1,0 +1,14 @@
+{
+  "name": "lab5-part2-library",
+  "version": "1.0.0",
+  "description": "Library website for Database Lab 5 Part II",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0"
+  }
+}
